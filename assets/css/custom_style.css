@@ -1,0 +1,21 @@
+.hidden{
+    overflow : hidden;
+}
+a{
+    text-decoration : none;
+}
+.margin-bottom{
+    margin-bottom: 20px;
+}
+.margin-top{
+    margin-top: 30px;
+}
+.btn-file {
+    background-color: #FFC77B;
+    color: black;
+}
+@media (max-width: 991.98px){
+    .main-image {
+        width: 100% !important;
+    }
+}

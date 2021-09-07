@@ -1,0 +1,24 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "What is CodeIgniter ###################",
+  "main": "index.php",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jquery-form-validator": "^2.3.77",
+    "tinymce": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochyusuf/kios-kuningan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/mochyusuf/kios-kuningan#readme"
+}
